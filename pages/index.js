@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Design studio on a subscription</p>
+        <p>Evo ga brate, moj prvi web projekat. Koristio Next.js i Vercel. Idemo daaaalje.</p>
         
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
